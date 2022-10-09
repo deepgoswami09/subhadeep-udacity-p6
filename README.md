@@ -27,4 +27,7 @@ To Github repository from scratch and create a scaffolding that will assist in p
 ![screenshot_CD_WebApp_Deployment_Successful](https://user-images.githubusercontent.com/115372822/194771170-b2f26fc0-5ae9-4988-9607-35e9a34df856.JPG)
 
 
+## Project Planning 
+Attched in Repo.
+
 ![example workflow](https://github.com/deepgoswami09/subhadeep-udacity-p6/actions/workflows/ythonapp.yml/badge.svg)
