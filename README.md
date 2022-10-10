@@ -24,6 +24,7 @@ To Github repository from scratch and create a scaffolding that will assist in p
 ![screenshot_makeAll_Passed_test](https://user-images.githubusercontent.com/115372822/194931034-87af7da2-b471-4e2d-83e8-2abbedd732ad.JPG)
 
 ## A screenshot of the successful completion of GitHub actions test
+![Screenshot of the successful completion of GitHub actions test](https://user-images.githubusercontent.com/115372822/194931349-97f41bc7-8672-4228-86d4-537c4562d68b.JPG)
 
 ## Continuous Delivery Pictorial View
 ![image](https://user-images.githubusercontent.com/115372822/194771091-6f9dcc90-5670-4ff0-adac-410aa022a671.png)
