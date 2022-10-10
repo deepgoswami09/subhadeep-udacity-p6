@@ -17,6 +17,14 @@ To Github repository from scratch and create a scaffolding that will assist in p
 ## CI Activity Summary
 ![image](https://user-images.githubusercontent.com/115372822/194771015-12e28a48-d0b4-45ba-9706-7e0b72dd87f8.png)
 
+## A screenshot showing the project cloned into Azure Cloud Shell
+![gitClone_Screenshot](https://user-images.githubusercontent.com/115372822/194930962-5452317d-70d8-42e9-8f0e-2d1ee6dab37b.JPG)
+
+## A screenshot showing the passing tests that are displayed after running the make all command from the Makefile.
+![screenshot_makeAll_Passed_test](https://user-images.githubusercontent.com/115372822/194931034-87af7da2-b471-4e2d-83e8-2abbedd732ad.JPG)
+
+## A screenshot of the successful completion of GitHub actions test
+
 ## Continuous Delivery Pictorial View
 ![image](https://user-images.githubusercontent.com/115372822/194771091-6f9dcc90-5670-4ff0-adac-410aa022a671.png)
 
