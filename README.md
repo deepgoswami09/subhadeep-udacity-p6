@@ -1,6 +1,7 @@
 
 ## Building a CI/CD Pipeline.
 This project contains end-to-end flows of Azure CI-CD Pipeline 
+- This line is added to test Git ACtions operation.
 
 ## Objective
 To Github repository from scratch and create a scaffolding that will assist in performing both Continuous Integration and Continuous Delivery. To use Github Actions along with a Makefile, requirements.txt and application code to perform an initial lint, test, and install cycle. Also to integrate this project with Azure Pipelines to enable Continuous Delivery to Azure App Service.
