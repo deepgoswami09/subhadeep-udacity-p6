@@ -44,7 +44,7 @@ To Github repository from scratch and create a scaffolding that will assist in p
 
 ## Screenshots demonstrating key steps
 - The project mainly consist of CI + CD process. The key steps are shown below in screenshots.
-- Create the Cloud-Based Development Environment
+- Create the Cloud-Based Development Environment.
 - Prepare Git Repository and add SSH Key. Then clone it to azure shell.
   ![gitClone_Screenshot](https://user-images.githubusercontent.com/115372822/195140656-1191a9ee-a1d1-42bb-8a5f-5f32c0796a69.JPG)
 - Create Project Scaffolding
@@ -56,15 +56,14 @@ To Github repository from scratch and create a scaffolding that will assist in p
 ## Configure GitHub 'Actions' and test it
 ![Screenshot_passed_GITHub_Actions](https://user-images.githubusercontent.com/115372822/195141217-06bc3aa4-269f-4411-9ddd-83dc019c87e3.JPG)
 
-
-## Configure Azure DevOps Organization, Create Prohect.
+## Configure Azure DevOps Organization, Create Project.
 
 ![image](https://user-images.githubusercontent.com/115372822/195141749-8c849e85-867e-4b6b-88f3-f1aeebae66b8.png)
-
 
 ## Configure Pipeline in Azure DevOps
 
 ![image](https://user-images.githubusercontent.com/115372822/195141975-09cd5b68-74a7-40ef-9d20-124073a73e4c.png)
+![image](https://user-images.githubusercontent.com/115372822/195710844-40ff5896-5330-4f4f-bf13-075b6b0b41c5.png)
 
 
 ## Create Azure Virtual Machine and Create Manual Agent to run the pipeline job (as shown)
@@ -83,14 +82,34 @@ Attched in Repo.
 ![image](https://user-images.githubusercontent.com/115372822/194772444-9e01d0eb-927a-4e73-846e-7710b3baae64.png)
 
 ## Project-6 CI/CD Pipeline Demo Youtube Link 
-https://youtu.be/TIYQUqQ4RAI
+https://youtu.be/qQXHStkaV-E
 
 ## Screenshots of the project deployed into an Azure Azure App Service via Azure Pipelines.
 ![AzureAppService](https://user-images.githubusercontent.com/115372822/195138346-10b81f56-8c07-4599-99d4-909b4e80593a.JPG)
 
+![image](https://user-images.githubusercontent.com/115372822/195708469-dcd7531e-4e98-4357-b375-943df9a81b9e.png)
+
+## Successful Azure DevOps Pipeline with Automatic Git push change build dteps. 
+![image](https://user-images.githubusercontent.com/115372822/195709029-da1f152f-4205-4c94-93c8-6562c65633f9.png)
+
+## Screenshot of BUILD + DEPLOY Steps 
+
+![image](https://user-images.githubusercontent.com/115372822/195709225-1d866bdc-6849-4f76-87b6-abd3c6916f53.png)
+
+
+## A screenshot of Azure App Service
+![image](https://user-images.githubusercontent.com/115372822/195708596-31cf31c8-432d-4edf-a4b3-06433c07ffe6.png)
+
+## locustfile.py and related screenshots
+ Locustfile.py is available in repo. Load test screenshot is as shown.
+![locust](https://user-images.githubusercontent.com/115372822/195708805-d40fb297-234e-4b1c-afea-ed4177048655.JPG)
+
+![locust_UI](https://user-images.githubusercontent.com/115372822/195708882-c633f36e-1e86-4fe7-8d1c-802d5ef0bbf8.JPG)
+
 
 ## A screenshot of a successful prediction in Azure Cloud Shell
-![prediction](https://user-images.githubusercontent.com/115372822/195138483-54e75633-916d-4147-868b-2225467ad660.JPG)
+![scr2](https://user-images.githubusercontent.com/115372822/195708289-cee5290f-ae2c-4dea-bcbf-888ede1fbb15.JPG)
+
 
 ## A screenshot showing the output of a test run
 ![Screenshot of the successful completion of GitHub actions test](https://user-images.githubusercontent.com/115372822/195138753-1878808d-a2fa-4b59-a5e0-d685a36b1da0.JPG)
